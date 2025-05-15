@@ -14,7 +14,7 @@ DNS name label: cmaz-5uxy4opu-mod4-nginx
 VM name: cmaz-5uxy4opu-mod4-vm
 VM OS Version ubuntu-24_04-lts
 VM SKU: Standard_F2s_v2
-Tags: Creator = tarunkumar_singh@epam.com
+Tags: Creator = tarunsingh@gmail.com
 Task Details
 Use the following directory layer
 .
